@@ -29,7 +29,7 @@ public class MainActivity3 extends AppCompatActivity {
                 "Fourth Item",
                 "GO TO ACT 1",
                 "GO TO ACT 2"};
-        setListAdapter(new ArrayAdapter<String>(this, R.layout.activity_main3, R.id.travel, array));
+        setListAdapter(new ArrayAdapter<String>(this, R.layout.activity_main3, R.id.i1, array));
 
     }
 
